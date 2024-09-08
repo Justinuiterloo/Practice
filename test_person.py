@@ -1,4 +1,3 @@
-# test_person.py
 import pytest
 from person import Person
 
